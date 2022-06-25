@@ -22,7 +22,7 @@
 		"vscode:prepublish": "node ../../node_modules/gulp/bin/gulp.js --gulpfile ../../gulpfile.plugins.js compile-plugin:csharp-o ./tsconfig.json"
 	},
 	"dependencies": {
-		"applicationinsights": "0.15.6",
+		"applicationinsights": "0.22.0",
 		"run-in-terminal": "*",
 		"semver": "*"
 	},
